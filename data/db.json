@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Alex",
+            "email": "alex@email.com",
+            "projects": [
+                {
+                    "id": 1,
+                    "title": "CLI Tool",
+                    "description": "Project tracker app",
+                    "due_date": "2026-06-01",
+                    "tasks": [
+                        {
+                            "id": 1,
+                            "title": "Build add-task command",
+                            "assigned_to": "Alex",
+                            "status": "complete"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
